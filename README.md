@@ -11,8 +11,6 @@ Currently Learning <br> •** Python • C++  • Data Structures & Algorithms <
 <br><br>
 **📊GitHub Statistics:** <br>
 ![](https://streak-stats.demolab.com/?user=harsimran-kaur9&theme=default&hide_border=false)<br/>
-**🌐 Socials:** <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsimran-kaur-452a76381/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/harsimran_codes) 
-<br>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
