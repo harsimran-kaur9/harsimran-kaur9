@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋 I'm Harsimran Kaur
 
-<!--
-**harsimran-kaur9/harsimran-kaur9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech student in Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+💻 Currently Learning
+• Python
+• C++
+• Data Structures & Algorithms
+• Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Working On
+• MLH Global Hack Week Projects
+• DSA Practice
+• Personal Portfolio
+• AI Projects
+
+🎯 2026 Goals
+• Build 20+ projects
+• Contribute to Open Source
+• Participate in Hackathons
+• Land my first internship
+
+📫 Connect with me
+LinkedIn
+YouTube
+Email
