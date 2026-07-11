@@ -1,6 +1,6 @@
-**Hi there 👋 I'm Harsimran Kaur**
+**<h1>Hi there 👋 I'm Harsimran Kaur</h1>**
 
-**🎓 Second-year B.Tech student in Artificial Intelligence & Machine Learning**
+**<h1>🎓 Second-year B.Tech student in Artificial Intelligence & Machine Learning </h1>**
 
 # 💫 About Me:
 💻 Currently Learning<br>• Python<br>• C++<br>• Data Structures & Algorithms<br><br><br>🌱 Currently Working On<br>• MLH Global Hack Week Projects<br>• DSA Practice<br>• Personal Portfolio<br>• AI Projects<br><br>🎯 2026 Goals<br>• Building multiple projects<br>• Contribute to Open Source<br>• Participate in Hackathons<br><br>📫 Connect with me<br>LinkedIn<br>Twitter(X)<br>
