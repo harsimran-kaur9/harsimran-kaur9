@@ -1,6 +1,6 @@
 **<h2>Hi there 👋 I'm Harsimran Kaur</h2>**
 
-<h3>🎓B.Tech student in Artificial Intelligence & Machine Learning</h3>
+<h2>🎓B.Tech student in Artificial Intelligence & Machine Learning</h2>
 
 **💫About Me:**
 <br>
@@ -16,7 +16,7 @@
 **🌐 Socials:** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsimran-kaur-452a76381/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/harsimran_codes) 
 <br><br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
