@@ -28,7 +28,6 @@ Hi there 👋 I'm Harsimran Kaur
 • Participate in Hackathons
 • Land my first internship
 
-📫 Connect with me
-![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96)
+📫 Connect with me:
 
-![x](https://www.readmecodegen.com/api/social-icon?name=x&size=96)
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=80)   ![x](https://www.readmecodegen.com/api/social-icon?name=x&size=80)
